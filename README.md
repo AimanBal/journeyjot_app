@@ -1,16 +1,23 @@
 # journeyjot_app
 
-A new Flutter project.
+A Journey Jot App project(Travel Journal).
+
+Group Name: Hibernate
 
 ## Getting Started
+Journey Jot App – Core Function
 
-This project is a starting point for a Flutter application.
+The Journey Jot Application offers a set of essential features to help users efficiently document and manage their Jot.
 
-A few resources to get you started if this is your first Flutter project:
+- User Authentication: New users can register and existing users can log in securely to access their personalized jotting experience.
+- Jot Creation: Users can add new jots (entries) to record memorable moments, daily thoughts, or reflections.
+- Jot Management: Users can view, edit, or delete their existing jots, ensuring their entries remain up-to-date and relevant.
+- Profile Viewing: Provides access to a user’s profile details within the application interface.
+- Monthly Feedback Filtering: Enables users to filter and view feedback or jots based on selected months for streamlined navigation and insight.
+- Session Handling: Users can log out securely, ensuring proper session management and data protection.- Jot Creation: Users can add new jots (entries) to record memorable moments, daily thoughts, or reflections.
+- Jot Management: Users can view, edit, or delete their existing jots, ensuring their entries remain up-to-date and relevant.
+- Profile Viewing: Provides access to a user’s profile details within the application interface.
+- Monthly Feedback Filtering: Enables users to filter and view feedback or jots based on selected months for streamlined navigation and insight.
+- Session Handling: Users can log out securely, ensuring proper session management and data protection.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+These functions collectively support a smooth and intuitive user journey within the app, centered on jot management and user personalization.
